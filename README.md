@@ -30,18 +30,15 @@ Most students cannot tell the difference between PET, PP, or multilayer packagin
 ## 5. Screenshots
 
 ### 1. Home Screen & Scanning Flow
-<!-- DRAG AND DROP YOUR IMAGE HERE, OR PASTE LINK BELOW -->
-![Home Screen](PASTE_IMAGE_LINK_HERE)
+![Home Screen](01_home_screen.png)
 *Student dashboard showing points, streaks, and the main scan button.*
 
 ### 2. Result Screen & Manual Picker
-<!-- DRAG AND DROP YOUR IMAGE HERE, OR PASTE LINK BELOW -->
-![Result Screen](PASTE_IMAGE_LINK_HERE)
+![Result Screen](02_result_screen.png)
 *Result screen showing the correct bin colour, reasoning, and the manual fallback.*
 
 ### 3. Data Insights Dashboard
-<!-- DRAG AND DROP YOUR IMAGE HERE, OR PASTE LINK BELOW -->
-![Data Insights](PASTE_IMAGE_LINK_HERE)
+![Data Insights](03_data_insights.png)
 *Flourish story embedded on the Google Site showing scan accuracy.*
 
 ## 6. Team Roles
